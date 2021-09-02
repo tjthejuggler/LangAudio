@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LangAudio</string>
+    <string-array name="turkishStories">
+        <item>Aslan ve Fare</item>
+        <item>Çirkin Ördek Yavrusu</item>
+        <item>Güzel Ve Çirkin</item>
+        <item>Heidi</item>
+        <item>Jack ve Fasulye Sırığı</item>
+        <item>Küçük kızıl tavuk</item>
+        <item>Şehir faresi ve köy faresi</item>
+        <item>Zencefilli kurabiye adam</item>
+    </string-array>
+    <string-array name="spanishStories">
+        <item>El león y el ratón</item>
+        <item>El patito feo</item>
+        <item>El hombre de jengibre</item>
+        <item>El Raton de Campo y Raton de Ciudad</item>
+        <item>Jack y las Habichuelas Mágicas</item>
+        <item>La Bella Y La Bestia</item>
+    </string-array>
+    <string-array name="germanStories">
+        <item>Der Löwe und die Maus </item>
+        <item>Das hässliche Entlein</item>
+        <item>Der Lebkuchenmann </item>
+        <item>Jack und die Bohnenstange </item>
+    </string-array>
+    <string-array name="languages">
+        <item>Türkçe</item>
+        <item>Español</item>
+        <item>Deutsch</item>
+    </string-array>
+</resources>
